@@ -13,6 +13,8 @@ difficulty = 3
 
 potion_health = int(random.randint(25,50) / difficulty)
 
+# previous variable (for instance, "health") can be overriden with the same-named variable with a different value. Previous variables can also be re-used in a statement, like the example below
+
 health = health + potion_health
 
 print(health)
