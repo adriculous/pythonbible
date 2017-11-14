@@ -1,4 +1,4 @@
-# Pig Latin Translator - using "for" loops
+# Pig Latin Converter - using "for" loops
 
 # get sentence from user
 
